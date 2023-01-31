@@ -6,4 +6,4 @@ I learned how to create a readme page
 ## Creating the profile and readme profile page was fun
 # I really enjoy putting emojis and GIFS into the code 
 # I learned how to use terminal, GitHub and how to do pull requests
-🌠 Thank you !
+🌠 Thank you !!
